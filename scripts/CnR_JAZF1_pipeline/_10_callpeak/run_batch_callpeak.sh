@@ -1,0 +1,14 @@
+#!/bin/sh
+
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_HeLa_AR_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_HeLa_H3K4me3_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_MCF7_ER_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_AR_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_AR_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_AR_R1881xE2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_AR_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_ER_EtOH_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_ER_E2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_ER_R1881xE2_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_ER_R1881_rep1.sh
+sbatch scripts/CnR_batch2_pipeline/10_callpeak/batch_sh/callpeak_VCaP_H3K4me3_EtOH_rep1.sh

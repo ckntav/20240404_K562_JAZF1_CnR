@@ -1,0 +1,5 @@
+sample_name	cell_line	antibody	replicate	fastq_R1_filename	fastq_R2_filename
+K562_JAZF1_rep1	K562	JAZF1	rep1	JAZF1_S4_L001_R1_001.fastq.gz	JAZF1_S4_L001_R2_001.fastq.gz
+K562_JAZF1_rep2	K562	JAZF1	rep2	JAZF1_S4_L002_R1_001.fastq.gz	JAZF1_S4_L002_R2_001.fastq.gz
+K562_IgG_rep1	K562	IgG	rep1	IgG_S3_L001_R1_001.fastq.gz	IgG_S3_L001_R2_001.fastq.gz
+K562_IgG_rep2	K562	IgG	rep2	IgG_S3_L002_R1_001.fastq.gz	IgG_S3_L002_R2_001.fastq.gz
