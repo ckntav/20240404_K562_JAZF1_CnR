@@ -1,0 +1,6 @@
+hub CnR_K562_JAZF1
+shortLabel CnR_K562_JAZF1
+longLabel CnR_K562_JAZF1
+genomesFile genomes_CnR_K562_JAZF1.txt
+email christophe.tav@crchudequebec.ulaval.ca
+descriptionUrl

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+sbatch scripts/CnR_JAZF1_pipeline/05_sambamba_sort/batch_sh/sambamba_sort_K562_JAZF1_rep1.sh
+sbatch scripts/CnR_JAZF1_pipeline/05_sambamba_sort/batch_sh/sambamba_sort_K562_JAZF1_rep2.sh
+sbatch scripts/CnR_JAZF1_pipeline/05_sambamba_sort/batch_sh/sambamba_sort_K562_IgG_rep1.sh
+sbatch scripts/CnR_JAZF1_pipeline/05_sambamba_sort/batch_sh/sambamba_sort_K562_IgG_rep2.sh

@@ -1,0 +1,2 @@
+genome hg38
+trackDb hg38_CnR_K562_JAZF1/trackDb_CnR_K562_JAZF1.txt
